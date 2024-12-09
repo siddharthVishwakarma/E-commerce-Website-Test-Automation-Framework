@@ -1,0 +1,5 @@
+{
+    "base_url": "https://example-ecommerce.com",
+    "browser": "chrome",
+    "timeout": 10
+}
